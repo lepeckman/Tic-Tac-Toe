@@ -1,5 +1,10 @@
-# Tic-Tac-Toe
+A simple user input program to produce the: 
 
-from_future_import print_function
+-sum of all numbers in a list
+-mean of all numbers in same list
+-largest number of said list
+and
+-index position of largest number
 
-from IPython.display import clear_output
+
+
