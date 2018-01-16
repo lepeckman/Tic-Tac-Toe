@@ -1,14 +1,7 @@
-A simple user input program to produce the: 
+#Tic-Tac-Toe
 
--sum of all numbers in a list
+Built with and runs in Jupyter Notebook. 
 
--mean of all numbers in same list
-
--largest number of said list
-
-and
-
--index position of largest number
-
+Players X and O use numbers to indicate their chosen space on the game board. 
 
 
